@@ -1,0 +1,32 @@
+body {
+background-color:#200000 ;
+font-weight: bold;
+font-size: 16px;
+color:FF3300;
+text-align:center;
+}
+#main {
+border-style:solid;
+border-width:2px;
+border-color:black;
+width:50%;
+height:550px;
+text-align:center;
+margin-left:auto;
+margin-right:auto;
+margin-top:100px;
+vertical-align:middle;
+background-color:#280000 ;
+
+}
+.forma{
+width: 100px;
+
+
+}
+h1{
+margin-top:50px;
+}
+.form2{
+display:inline;
+}
